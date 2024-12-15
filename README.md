@@ -43,6 +43,7 @@ If time allows, I might:
 - Add more customization to the layout and style.
 - Replace jQuery with vanilla JavaScript for a cleaner approach.
 - Implement a more dynamic photo gallery.
+- **Migrate to Astro.js**: A modern framework for building static websites, enabling better performance and flexibility.
 
 ---
 
@@ -107,6 +108,7 @@ Se houver tempo, talvez eu:
 - Adicione mais personalização ao layout e estilo.
 - Substitua o jQuery por JavaScript puro para uma abordagem mais limpa.
 - Implemente uma galeria de fotos mais dinâmica.
+- **Migrar para Astro.js**: Um framework moderno para construção de sites estáticos, possibilitando melhor desempenho e flexibilidade.
 
 ---
 
